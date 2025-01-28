@@ -1,0 +1,48 @@
+[
+    { 
+        "keyName":"1",
+        "title": "NYC Subway(MTA) ETA Tracker", 
+        "description": "A project that tracks subway arrival times in the Rego Park area of NYC.", 
+        "date": "Nov, 2023 - Dec, 2023",
+        "link": "https://github.com/yunchennn/NYC_MTA_Tracker/tree/main", 
+        "img": "./image/1.jpg",
+        "tag": ["C++", "Arduino", "Python", "AWS"] 
+    },
+    { 
+        "keyName":"2",
+        "title": "Coffee Shop E-commerce Website Dev", 
+        "description": "An e-commerce website developed for a coffee shop to streamline online ordering and sales.", 
+        "date": "July, 2023 - Aug, 2023",
+        "link": "https://github.com/yunchennn/e-commerce_React_Flask_Docker", 
+        "img": "./image/2.png", 
+        "tag": ["Python", "JavaScript", "MongoDB", "AWS", "Docker"] 
+    },
+    { 
+        "keyName":"3",
+        "title": "Fast-Food Chains Analysis: Ranking Prediction & Store Mapping", 
+        "description": "A data analysis project to predict rankings and map fast-food chain locations.", 
+        "date": "Apr, 2023 - May, 2023",
+        "link": "#", 
+        "img": "./image/3.png", 
+        "tag": ["Python", "JavaScript", "MongoDB", "AWS", "Docker"] 
+    },
+    { 
+        "keyName":"4",
+        "title": "Music Recognition Android App", 
+        "description": "An Android app that recognizes music and provides detailed information about the track.", 
+        "date": "Jan, 2023 - Apr, 2023",
+        "link": "#", 
+        "img": "./image/4.png",
+        "tag": ["Python", "JavaScript", "MongoDB", "AWS", "Docker"] 
+    },
+    { 
+        "keyName":"7",
+        "title": "Object Macthing", 
+        "description": "An exploration of computer vision techniques for object detection and recognition.", 
+        "date": "",
+        "link": "#", 
+        "img": "./image/demo.jpg",
+        "tag": ["Python", "JavaScript", "MongoDB", "AWS", "Docker"] 
+    }
+  ]
+  

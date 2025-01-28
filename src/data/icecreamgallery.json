@@ -1,0 +1,303 @@
+[
+    {
+      "img": "./image/quiz/ic_1.jpg",
+      "title": "Rocky chocolate",
+      "author": "@Chandler square",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_2.jpg",
+      "title": "Snow",
+      "author": "@My backyard",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_3.jpg",
+      "title": "Cheesecake walnut",
+      "author": "@Kilwins Saratoga Springs",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_4.jpg",
+      "title": "Idk",
+      "author": "@Ben & Jerry's",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_5.jpg",
+      "title": "75% chocolate x Lemon",
+      "author": "@Venchi 1878",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_6.jpg",
+      "title": "Chocolate",
+      "author": "@The Brooklyn Ice Cream Factory",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_7.jpg",
+      "title": "Matcha",
+      "author": "@Cha Cha Matcha",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_8.jpg",
+      "title": "Chocolate",
+      "author": "@NYC ice cream truck",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_9.jpg",
+      "title": "Caramel apple crisp",
+      "author": "@Mickey's Ice Cream Kitchen",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_10.jpg",
+      "title": "MA's chocolate",
+      "author": "@Mia's Ice Cream Kitchen",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_11.jpg",
+      "title": "Holy cow sundae",
+      "author": "@Peter Luger Steak House Est. 1887",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_12.jpg",
+      "title": "Sea salt",
+      "author": "@Morgenstern's Finest Ice Cream",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_13.jpg",
+      "title": "Maple walnut",
+      "author": "@SCOOPS",
+      "state": "VT"
+    },
+    {
+      "img": "./image/quiz/ic_14.jpg",
+      "title": "Lobster x Blueberry",
+      "author": "@Ben & Bill's Chocolate Emporium",
+      "state": "MA"
+    },
+    {
+      "img": "./image/quiz/ic_15.jpg",
+      "title": "Chocolate hazelnut martini & The Chocolate Hiro",
+      "author": "@Aubi & Ramsa",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_16.jpg",
+      "title": "Strawberry bing su",
+      "author": "@Little Banchan Shop",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_17.jpg",
+      "title": "Milk strawberry cheesecake",
+      "author": "@Arethuse Farm Dairy",
+      "state": "CT"
+    },
+    {
+      "img": "./image/quiz/ic_18.jpg",
+      "title": "Ten flavors",
+      "author": "@Amorino USA",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_19.jpg",
+      "title": "The Mt. Vesuvius sundaes",
+      "author": "@Franklin Fountain",
+      "state": "PA"
+    },
+    {
+      "img": "./image/quiz/ic_20.jpg",
+      "title": "Caffee bianco stracciatella x Animal frosty",
+      "author": "@Caffe Panna",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_21.jpg",
+      "title": "Vanilla soft ice",
+      "author": "@IKEA",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_22.jpg",
+      "title": "Strawberries x Nuts",
+      "author": "@Coney Island Broadwalk",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_23.jpg",
+      "title": "Chocolate x Dark roast coffee x French strawberry",
+      "author": "@Mitchell's Homemade Ice Cream",
+      "state": "OH"
+    },
+    {
+      "img": "./image/quiz/ic_24.jpg",
+      "title": "#5 Yates apple crisp a la mode",
+      "author": "@Yates Cider Mill",
+      "state": "IL"
+    },
+    {
+      "img": "./image/quiz/ic_25.jpg",
+      "title": "Bananna split",
+      "author": "@Eddie's Sweet Shop",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_26.jpg",
+      "title": "Bourbon strawberry lemonade popsicle",
+      "author": "@Four Rose Bourbon",
+      "state": "KY"
+    },
+    {
+      "img": "./image/quiz/ic_27.jpg",
+      "title": "Mexican coke float",
+      "author": "@The Butter Milk Ranch",
+      "state": "TN"
+    },
+    {
+      "img": "./image/quiz/ic_28.jpg",
+      "title": "TATE's x Cap'n Church & cookies 'n' Creme",
+      "author": "@Max and Mina's",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_29.jpg",
+      "title": "Nurungji x Banana milk x Thai tea",
+      "author": "@Sundaes Best NYC",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_30.jpg",
+      "title": "Walnuts and Caramel",
+      "author": "@G Taste Crepe Cafe",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_31.jpg",
+      "title": "Blueberry lemonade x Champagne mango",
+      "author": "@Dolcezza",
+      "state": "DC"
+    },
+    {
+      "img": "./image/quiz/ic_32.jpg",
+      "title": "Chocolate x Strawberry cheesecake",
+      "author": "@Torico Ice Cream Parlor",
+      "state": "NJ"
+    },
+    {
+      "img": "./image/quiz/ic_60.jpg",
+      "title": "Lychee",
+      "author": "@Chinatown Ice Cream Factory",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_36.jpg",
+      "title": "The miller place C.M.P SUNDAE",
+      "author": "@McNulty Ice Cream Parlor",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_35.jpg",
+      "title": "Canadian",
+      "author": "@COWS",
+      "state": "Canada"
+    },
+    {
+      "img": "./image/quiz/ic_38.jpg",
+      "title": "Bananna peanut butter",
+      "author": "@Bona Bona Ice Cream",
+      "state": "NJ"
+    },
+    {
+      "img": "./image/quiz/ic_39.jpg",
+      "title": "Tripping on espresso",
+      "author": "@Emack & Bolio's Ice Cream",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_40.jpg",
+      "title": "Dutch chocolate",
+      "author": "@The Dutch Udder Craft Ice Cream",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_43.jpg",
+      "title": "Vanilla x chocolate",
+      "author": "@Kurver Kreme",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_45.jpg",
+      "title": "Honeycomb",
+      "author": "@Van Leeuwen Ice Cream",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_46.jpg",
+      "title": "Pineapple",
+      "author": "@Carmine's Italian Restaurant",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_47.jpg",
+      "title": "Dark chocolate x Lemon",
+      "author": "@Anita La Mamma del Gelato",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_50.jpg",
+      "title": "Chocolate",
+      "author": "@Gastronom International Market",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_56.jpg",
+      "title": "Vanilla",
+      "author": "@NUBIANI",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_57.jpg",
+      "title": "Hazelnut",
+      "author": "@Gelatoville Gelataria & Coffee",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_58.jpg",
+      "title": "Strawberry x Vanilla",
+      "author": "@IKEA",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_61.jpg",
+      "title": "Dark chocolate x Lime",
+      "author": "@Gelateria Gentile",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_63.jpg",
+      "title": "Chocolate",
+      "author": "@Stew Leonard's",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_64.jpg",
+      "title": "Chocolate",
+      "author": "@Maxim's Cakes",
+      "state": "NY"
+    },
+    {
+      "img": "./image/quiz/ic_66.jpg",
+      "title": "Honeycomb",
+      "author": "@Van Leeuwen Ice Cream",
+      "state": "NY"
+    }
+    
+  ]

@@ -1,0 +1,71 @@
+[
+    {
+      "date": "Oct, 2023 - Present",
+      "location": "New York, NY",
+      "title": "Graphen, Inc.",
+      "subtitle": "Software Engineer",
+      "icon": "work",
+      "image": "./image/resume/graphen.png",
+      "msg":{ "content":[]}
+    },
+    {
+      "date": "Dec, 2021 - May, 2022",
+      "location": "Stony Brook, NY",
+      "title": "The Research Foundation for SUNY",
+      "subtitle":"Research Project Assistant",
+      "icon": "work",
+      "image": "./image/resume/suny.png",
+      "msg":{
+        "content":[
+            "Created a stable, 360° luminous composite material by combining polymer and phosphor materials, with nano electrodes.",
+            "Tested up to 5 kinds of dielectric materials, 3 kinds of electrode materials and phosphor materials in different proportions to develop a sustainable luminescent material with a length of 50cm.",
+            "Created a strong, wearable luminescent material (up to 70 MPa tensile strength) using weaving techniques.",
+            "Developed the project plan, incorporating progress reporting, literature research, experimental configuration, and wearable device development. Analyzed experiment performance using MATLAB."
+      ]}
+
+    },
+    {
+      "date": "Aug, 2021 - May, 2023",
+      "location": "Stony Brook, NY",
+      "title": "Stony Brook University - SUNY",
+      "subtitle":"Master of Science in Computer Engineering",
+      "icon": "education",
+      "image": "./image/resume/sbu.png",
+      "msg":{
+            "GPA": "3.38/4.0", 
+            "Scholarship":"NSF Graduate Research Fellowship Program", 
+            "Courses": "Data Structure, Algorithms, Computer Vision, ML/AI, Wireless Communications, Networking, Mobile Cloud Computing, Stochastic Systems, Hard-Soft Codesign"
+        }
+    },
+    {
+      "date": "Oct, 2018 - Mar, 2021",
+      "location": "Taoyuan, Taiwan",
+      "title": "Delta Electronics, Inc.",
+      "subtitle":"Sr. Mechanical Design Engineer",
+      "icon": "work",
+      "image": "./image/resume/delta.png",
+      "msg":{
+        "content":[
+            "Designed products for telecommunications companies including Verizon, AT&T, and Docomo, utilized SolidWorks.",
+            "Developed a screw-type integrated system reduce the overall screw types of the department by nearly 40%."       
+        ]}
+    },
+    {
+      "date": "Aug, 2016 - May, 2018",
+      "location": "Tainan, Taiwan",
+      "title": "National Cheng Kung University",
+      "subtitle":"Master of Science in Mechanical Engineering ",
+      "icon": "education",
+      "image": "./image/resume/ncku.png",
+      "msg":{"GPA": "3.88/4.0"}
+    },
+    {
+      "date": "Aug, 2012 - May, 2016",
+      "location": "Kaohsiung, Taiwan",
+      "title": "National Kaohsiung University of Applied Sciences",
+      "subtitle":"Bachelor of Science in Mold and Die Engineering",
+      "icon": "education",
+      "image": "./image/resume/kuas.png",
+      "msg":{}
+    }
+]

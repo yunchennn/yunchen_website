@@ -1,0 +1,69 @@
+[
+    {
+      "question": "Which type of ice cream would you choose?",
+      "analysisDirection": "Your inner self",
+      "options": [
+        { "id": "A", "text": "Soft ice cream", "image": "./image/quiz/ic_43.jpg", "analysis": "You have a gentle and sensitive inner self, you enjoy being pampered and love taking care of others." },
+        { "id": "B", "text": "Hard ice cream", "image": "./image/quiz/ic_17.jpg", "analysis": "You have a strong, resilient inner self, able to handle challenges steadily while seeking stability." },
+        { "id": "C", "text": "Gelato", "image": "./image/quiz/ic_5.jpg", "analysis": "You are refined and unique, with a deep desire to seek fine and special experiences." },
+        { "id": "D", "text": "Sorbet", "image": "./image/quiz/ic_31.jpg", "analysis": "Your inner self is lively and free-spirited, enjoying fresh feelings and an unconstrained life." },
+        { "id": "E", "text": "Frozen yogurt", "image": "./image/quiz/ic_58.jpg", "analysis": "You value balance between health and pleasure, seeking a harmony of rationality and emotion." }
+      ]
+    },
+    {
+      "question": "What is your favorite topping?",
+      "analysisDirection": "Qualities you want others to see",
+      "options": [
+        { "id": "A", "text": "Chocolate syrup", "image": "./image/quiz/ic_11.jpg", "analysis": "You want others to see you as dependable and stable, offering a sense of safety and comfort." },
+        { "id": "B", "text": "Candy pieces", "image": "./image/quiz/ic_29.jpg", "analysis": "You wish to be seen as fun and creative, bringing vibrancy and excitement to life." },
+        { "id": "C", "text": "Fresh fruit", "image": "./image/quiz/ic_16.jpg", "analysis": "You want to present yourself as healthy, natural, and refreshing, projecting an optimistic energy." },
+        { "id": "D", "text": "Nuts", "image": "./image/quiz/ic_30.jpg", "analysis": "You prefer others to see you as deep, sophisticated, and appreciate your refined qualities." },
+        { "id": "E", "text": "No toppings", "image": "./image/quiz/ic_48.jpg", "analysis": "You wish to be seen as genuine and authentic, without the need for embellishments." }
+      ]
+    },
+    {
+        "question": "What do you care most about when eating ice cream?",
+        "analysisDirection": "Your approach to handling things",
+        "options": [
+            { "id": "A", "text": "Smooth texture that melts in your mouth.", "image": "./image/quiz/ic_8.jpg", "analysis": "You focus on details and enjoy solving problems quickly, seeking instant gratification." },
+            { "id": "B", "text": "Satisfaction.", "image": "./image/quiz/ic_25.jpg", "analysis": "You are goal-oriented and willing to put in the effort to get the rewards you desire." },
+            { "id": "C", "text": "A premium experience.", "image": "./image/quiz/ic_18.jpg", "analysis": "You approach tasks with creativity and strategy, pursuing quality and uniqueness." },
+            { "id": "D", "text": "Trying new flavors.", "image": "./image/quiz/ic_14.jpg", "analysis": "You are adventurous and open-minded, always seeking new experiences and embracing change." },
+            { "id": "E", "text": "Healthy and delicious.", "image": "./image/quiz/ic_46.jpg", "analysis": "You approach problems holistically, focusing on both the process and the harmonious outcome." }
+        ]
+    },
+    {
+      "question": "In which setting would you most enjoy eating ice cream",
+      "analysisDirection": "Your current state",
+      "options": [
+        { "id": "A", "text": "Amusement park", "image": "./image/quiz/ic_24.jpg", "analysis": "You’re currently full of energy, seeking relaxation and a carefree life." },
+        { "id": "B", "text": "On the couch at home", "image": "./image/quiz/ic_48.jpg", "analysis": "You need rest and stability right now, craving a peaceful atmosphere." },
+        { "id": "C", "text": "At a coffee shop", "image": "./image/quiz/ic_25.jpg", "analysis": "You’re enjoying some solitude or introspection, finding joy in small, quiet moments." },
+        { "id": "D", "text": "At the beach", "image": "./image/quiz/ic_22.jpg", "analysis": "You’re yearning for freedom and new possibilities, ready to explore what life has to offer." },
+        { "id": "E", "text": "After a workout in a health corner", "image": "./image/quiz/ic_4.jpg", "analysis": "You’re in a state of hard work and accomplishment, striving towards your goals and looking forward to results." }
+      ]
+    },
+    {
+      "question": "Which season(s) do you think is(are) the best for enjoying ice cream?",
+      "analysisDirection": "The version of yourself you desire",
+      "options": [
+        { "id": "A", "text": "Spring", "image": "./image/quiz/ic_55.jpg", "analysis": "You wish to be someone full of hope and positive energy, ready to embrace each day with new challenges." },
+        { "id": "B", "text": "Summer", "image": "./image/quiz/ic_59.jpg", "analysis": "You aim to be optimistic and enthusiastic, bringing sunshine and joy to others." },
+        { "id": "C", "text": "Autumn", "image": "./image/quiz/ic_65.jpg", "analysis": "You long to be someone with depth, able to warm others with your presence and leave a lasting impression." },
+        { "id": "D", "text": "Winter", "image": "./image/quiz/ic_54.jpg", "analysis": "You hope to be introspective and wise, finding strength and peace in quiet moments." },
+        { "id": "E", "text": "Year-round", "image": "./image/quiz/ic_45.jpg", "analysis": "You want to be adaptable, able to find joy and fulfillment in any situation or season." }
+      ]
+    },
+    {
+      "question": "How would you like your ice cream to be served?",
+      "analysisDirection": "The impression you give to others",
+      "options": [
+        { "id": "A", "text": "Cone", "image": "./image/quiz/ic_6.jpg", "analysis": "You give off a classic and steady vibe, approachable and dependable, easy to get along with." },
+        { "id": "B", "text": "Glass bowl", "image": "./image/quiz/ic_46.jpg", "analysis": "You appear elegant and refined, with a delicate aura that draws people in and makes them want to know you more." },
+        { "id": "C", "text": "Macaron sandwich", "image": "./image/quiz/ic_64.jpg", "analysis": "You are seen as creative and surprising, always bringing something new and exciting to the table." },
+        { "id": "D", "text": "Ice cream cup", "image": "./image/quiz/ic_10.jpg", "analysis": "You give off a rich and multifaceted vibe, full of depth and complexity, making every interaction feel layered and meaningful." },
+        { "id": "E", "text": "No container, just scooped straight from the tub!", "image": "./image/quiz/ic_15.jpg", "analysis": "You come across as carefree and genuine, straightforward and real, making people feel comfortable around you." }
+      ]
+    }
+  ]
+  
